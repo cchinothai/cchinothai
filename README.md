@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 My name is Cody</h1>
+<h1 align="left">Hi 👋 My name is Cody</h1>
 
 ###
 
-<p align="left">📝 I'm a cloud-focused software engineer with experience building event-driven systems, automating infrastructure/CI/CD, and supporting internal applications for business and platform teams.<br>​<br>🧑‍💻 Current stack: Python/Fast API, JavaScript/TypeScript, React, Node.js, Terraform, AWS (Lambda, EventBridge, DynamoDB, CloudWatch, ECS), SQL/NoSQL, Git/GitHub Actions.<br>​<br><br>🧱 Currently learning: Docker, Kubernetes/EKS, advanced CI/CD patterns, and ways to use cloud + AI to reduce repetitive work and improve developer workflows.</p>
+<p align="left">📝 I'm a cloud-focused software engineer with experience building event-driven systems, automating infrastructure/CI/CD, and supporting internal applications for business and platform teams.<br>​<br>🧑‍💻 Current stack: Python/Fast API, JavaScript/TypeScript, React, Node.js, Terraform, AWS (Lambda, EventBridge, DynamoDB, CloudWatch, ECS), SQL/NoSQL, Git/GitHub Actions.<br>​<br>🌱 Currently learning: Docker, Kubernetes/EKS, advanced CI/CD patterns, and ways to use cloud + AI to reduce repetitive work and improve developer workflows.</p>
 
 ###
 
